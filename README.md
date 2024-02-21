@@ -1,4 +1,4 @@
-# <font color=mediumaquamarine> Books Management C# </font>
+# <font color=mediumaquamarine> Books Management Python </font>
 ## Introduction:
 This is an assignment of **SWEN504 Programming Lanagues.**   
 The requirement of this assignment is to implement the same program in two different languages picking from C#, python, shell, haskell.   
